@@ -1,0 +1,15 @@
+C:\Users\Reina\documents\visual studio 2015\Projects\CLASS_LIBRARY\CLASS_LIBRARY\bin\Debug\CLASS_LIBRARY.dll
+C:\Users\Reina\documents\visual studio 2015\Projects\CLASS_LIBRARY\CLASS_LIBRARY\bin\Debug\CLASS_LIBRARY.pdb
+C:\Users\Reina\documents\visual studio 2015\Projects\CLASS_LIBRARY\CLASS_LIBRARY\obj\Debug\CLASS_LIBRARY.csprojResolveAssemblyReference.cache
+C:\Users\Reina\documents\visual studio 2015\Projects\CLASS_LIBRARY\CLASS_LIBRARY\obj\Debug\CLASS_LIBRARY.dll
+C:\Users\Reina\documents\visual studio 2015\Projects\CLASS_LIBRARY\CLASS_LIBRARY\obj\Debug\CLASS_LIBRARY.pdb
+C:\Users\Reina\Documents\Surface Pro 4 docs\Visual Studio 2015\Projects\CLASS_LIBRARY\CLASS_LIBRARY\bin\Debug\CLASS_LIBRARY.dll
+C:\Users\Reina\Documents\Surface Pro 4 docs\Visual Studio 2015\Projects\CLASS_LIBRARY\CLASS_LIBRARY\bin\Debug\CLASS_LIBRARY.pdb
+C:\Users\Reina\Documents\Surface Pro 4 docs\Visual Studio 2015\Projects\CLASS_LIBRARY\CLASS_LIBRARY\obj\Debug\CLASS_LIBRARY.csprojResolveAssemblyReference.cache
+C:\Users\Reina\Documents\Surface Pro 4 docs\Visual Studio 2015\Projects\CLASS_LIBRARY\CLASS_LIBRARY\obj\Debug\CLASS_LIBRARY.dll
+C:\Users\Reina\Documents\Surface Pro 4 docs\Visual Studio 2015\Projects\CLASS_LIBRARY\CLASS_LIBRARY\obj\Debug\CLASS_LIBRARY.pdb
+C:\Users\vencr\Documents\Surface Pro 4 docs\Visual Studio 2015\Projects\CLASS_LIBRARY\CLASS_LIBRARY\obj\Debug\CLASS_LIBRARY.dll
+C:\Users\vencr\Documents\Surface Pro 4 docs\Visual Studio 2015\Projects\CLASS_LIBRARY\CLASS_LIBRARY\obj\Debug\CLASS_LIBRARY.pdb
+C:\Users\vencr\Documents\Surface Pro 4 docs\Visual Studio 2015\Projects\CLASS_LIBRARY\CLASS_LIBRARY\bin\Debug\CLASS_LIBRARY.dll
+C:\Users\vencr\Documents\Surface Pro 4 docs\Visual Studio 2015\Projects\CLASS_LIBRARY\CLASS_LIBRARY\bin\Debug\CLASS_LIBRARY.pdb
+C:\Users\vencr\Documents\Surface Pro 4 docs\Visual Studio 2015\Projects\CLASS_LIBRARY\CLASS_LIBRARY\obj\Debug\CLASS_LIBRARY.csprojResolveAssemblyReference.cache
